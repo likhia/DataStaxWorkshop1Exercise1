@@ -24,7 +24,7 @@ Datastax offers free credit of $25/month for trial use.   You will be using this
 5. You are registered to Astra DB
 ![image](img/image4.png?raw=true)
 
-6. From the dashboard, you can see your plan, credit usage / amount billable (will see that after creating your database, your usage.
+6. From the dashboard, you will see your plan, credit usage / amount billable after created your database.
 
 ## Section B: Create Database 
 
