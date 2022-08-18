@@ -1,4 +1,6 @@
-Datastax Astra DB is a fully managed, multi-cloud and serverless DBaaS that scales up and down dynamically with pay-as-you-go pricing.  
+# Hands-On Exercise 1 : Create Astra DB and Experience Basic CQL 
+
+**Datastax Astra DB** is a fully managed, multi-cloud and serverless DBaaS that scales up and down dynamically with pay-as-you-go pricing.  
 
 Astra DB eliminates operational overhead.  Day 2 operations such as backup and patch will be managed by Datastax.  
 
@@ -6,7 +8,7 @@ It is serverless so it avoids overprovisioning and reduces TCO by matching resou
 
 It is available on any of the major public clouds (AWS, GCP, Azure) in one or more regions so there is no vendor lock-in. 
 
-Datastax offers free credit of $25/month for trial use.   You will be using this free credit account for this workshop.   With just a few clicks,  you will register to AstraDB.   No credit card information is required. 
+Datastax offers **free credit of $25/month** for trial use.   You will be using this free credit account for this workshop.   With just a few clicks,  you will register to AstraDB.   No credit card information is required. 
 
 ## Section A: Register to Astra DB
 
